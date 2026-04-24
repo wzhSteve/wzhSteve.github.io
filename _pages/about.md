@@ -26,8 +26,6 @@ redirect_from:
 
 联系方式：`wzhrslh@gmail.com`
 
-Google Scholar: [LvP_YfYAAAAJ](https://scholar.google.com/citations?user=LvP_YfYAAAAJ&hl=en)
-<a href='https://scholar.google.com/citations?user=LvP_YfYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ scholarBadgeUrl | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🎓 教育经历
 - *2024.09 - 2028.06*，天津大学，博士（软件工程）
@@ -40,23 +38,20 @@ Google Scholar: [LvP_YfYAAAAJ](https://scholar.google.com/citations?user=LvP_YfY
 - 大模型与安全：对抗攻防、越狱攻击分析、风险评测
 
 # 📝 代表论文
-- Zehao Wang, et al. *Pattern-aware Illicit Account Detection based on User Behavior Sequences*. WWW 2026 (CCF-A)
-- Zehao Wang, et al. *NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection*. DASFAA 2026 (CCF-B)
-- Lanjun Wang, Zehao Wang, et al. *Bots Shield Fake News: Adversarial Attack on User Engagement-based Fake News Detection*. CIKM 2024 (CCF-B)
-- Zehao Wang, et al. *Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing*. Machine Intelligence Research 2026 (SCI Q1)
-- Zehao Wang, et al. *Representing Multi-view Time-series Graph Structures for Multivariate Long-term Time-series Forecasting*. IEEE TAI 2024 (JCR Q1)
-- Zehao Wang, et al. *A robust feature reinforcement framework for heterogeneous graphs neural networks*. FGCS 2023 (SCI Q1)
-- Jin Fan, Zehao Wang, et al. *An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection*. Neural Networks 2023 (CCF-B, SCI Q1)
-- Jin Fan, Zehao Wang, et al. *Sepformer-based Models: More Efficient Models for Long Sequence Time-Series Forecasting*. IEEE TETC 2022 (SCI Q1)
+- **Zehao Wang**, et al. *Pattern-aware Illicit Account Detection based on User Behavior Sequences*. WWW 2026 (CCF-A)
+- **Zehao Wang**, et al. *NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection*. DASFAA 2026 (CCF-B)
+- Lanjun Wang, **Zehao Wang**, et al. *Bots Shield Fake News: Adversarial Attack on User Engagement-based Fake News Detection*. CIKM 2024 (CCF-B)
+- **Zehao Wang**, et al. *Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing*. Machine Intelligence Research 2026 (SCI Q1)
+- **Zehao Wang**, et al. *Representing Multi-view Time-series Graph Structures for Multivariate Long-term Time-series Forecasting*. IEEE TAI 2024 (JCR Q1)
+- **Zehao Wang**, et al. *A robust feature reinforcement framework for heterogeneous graphs neural networks*. FGCS 2023 (SCI Q1)
+- Jin Fan, **Zehao Wang**, et al. *An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection*. Neural Networks 2023 (CCF-B, SCI Q1)
+- Jin Fan, **Zehao Wang**, et al. *Sepformer-based Models: More Efficient Models for Long Sequence Time-Series Forecasting*. IEEE TETC 2022 (SCI Q1)
 </div>
 
 <div id="about-en" markdown="1" style="display:none;">
-My name is **Zehao Wang**. My research focuses on **Risk Control AI, Multi-agent Systems, and Anomaly Detection**. I currently work on risk reasoning and defense in multi-agent collaboration, graph/time-series anomaly detection, and LLM safety.
+My name is ****Zehao Wang****. My research focuses on **Risk Control AI, Multi-agent Systems, and Anomaly Detection**. I currently work on risk reasoning and defense in multi-agent collaboration, graph/time-series anomaly detection, and LLM safety.
 
 Contact: `wzhrslh@gmail.com`
-
-Google Scholar: [LvP_YfYAAAAJ](https://scholar.google.com/citations?user=LvP_YfYAAAAJ&hl=en)
-<a href='https://scholar.google.com/citations?user=LvP_YfYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ scholarBadgeUrl | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🎓 Education
 - *2024.09 - 2028.06*, Tianjin University, Ph.D. in Software Engineering
@@ -69,14 +64,14 @@ Google Scholar: [LvP_YfYAAAAJ](https://scholar.google.com/citations?user=LvP_YfY
 - LLM and AI safety: adversarial attack/defense, jailbreak analysis, and risk evaluation
 
 # 📝 Selected Publications
-- Zehao Wang, et al. *Pattern-aware Illicit Account Detection based on User Behavior Sequences*. WWW 2026 (CCF-A)
-- Zehao Wang, et al. *NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection*. DASFAA 2026 (CCF-B)
-- Lanjun Wang, Zehao Wang, et al. *Bots Shield Fake News: Adversarial Attack on User Engagement-based Fake News Detection*. CIKM 2024 (CCF-B)
-- Zehao Wang, et al. *Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing*. Machine Intelligence Research 2026 (SCI Q1)
-- Zehao Wang, et al. *Representing Multi-view Time-series Graph Structures for Multivariate Long-term Time-series Forecasting*. IEEE TAI 2024 (JCR Q1)
-- Zehao Wang, et al. *A robust feature reinforcement framework for heterogeneous graphs neural networks*. FGCS 2023 (SCI Q1)
-- Jin Fan, Zehao Wang, et al. *An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection*. Neural Networks 2023 (CCF-B, SCI Q1)
-- Jin Fan, Zehao Wang, et al. *Sepformer-based Models: More Efficient Models for Long Sequence Time-Series Forecasting*. IEEE TETC 2022 (SCI Q1)
+- **Zehao Wang**, et al. *Pattern-aware Illicit Account Detection based on User Behavior Sequences*. WWW 2026 (CCF-A)
+- **Zehao Wang**, et al. *NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection*. DASFAA 2026 (CCF-B)
+- Lanjun Wang, **Zehao Wang**, et al. *Bots Shield Fake News: Adversarial Attack on User Engagement-based Fake News Detection*. CIKM 2024 (CCF-B)
+- **Zehao Wang**, et al. *Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing*. Machine Intelligence Research 2026 (SCI Q1)
+- **Zehao Wang**, et al. *Representing Multi-view Time-series Graph Structures for Multivariate Long-term Time-series Forecasting*. IEEE TAI 2024 (JCR Q1)
+- **Zehao Wang**, et al. *A robust feature reinforcement framework for heterogeneous graphs neural networks*. FGCS 2023 (SCI Q1)
+- Jin Fan, **Zehao Wang**, et al. *An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection*. Neural Networks 2023 (CCF-B, SCI Q1)
+- Jin Fan, **Zehao Wang**, et al. *Sepformer-based Models: More Efficient Models for Long Sequence Time-Series Forecasting*. IEEE TETC 2022 (SCI Q1)
 </div>
 
 <script>
