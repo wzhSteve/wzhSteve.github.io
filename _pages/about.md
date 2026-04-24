@@ -58,7 +58,7 @@ Contact: `wzhrslh@gmail.com`
 - *2021.09 - 2024.06*, Hangzhou Dianzi University, M.S. in Computer Technology
 - *2016.09 - 2020.06*, Xidian University, B.Eng. in Communication Engineering
 
-# 🔬 Research Interests & Skills
+# 🔬 Research Interests and Skills
 - Multi-agent systems: collaboration mechanisms, failure attribution, risk reasoning, and active defense
 - Risk control and anomaly detection: graph anomaly detection (GNN), time-series anomaly detection, illicit-user behavior modeling
 - LLM and AI safety: adversarial attack/defense, jailbreak analysis, and risk evaluation
