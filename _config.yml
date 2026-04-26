@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zehao Wang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/image.png"
   bio              : "PhD Student in Risk Control AI & Multi-agent Systems"
   location         : "Tianjin, China"
   employer         :
