@@ -36,6 +36,7 @@ redirect_from:
 - 大模型与安全：对抗攻防、越狱攻击分析、风险评测
 
 # 📝 代表论文
+- **Zehao Wang**, Shilong Jin, Zhao Cao, Lanjun Wang. *When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems*. ICML 2026 (CCF-A)
 - **Zehao Wang**, Lanjun Wang, Fuxia Guo, Yanjie Dong. *Pattern-aware Illicit Account Detection based on User Behavior Sequences*. WWW 2026 (CCF-A)
 - **Zehao Wang**, Lanjun Wang. *NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection*. DASFAA 2026 (CCF-B)
 - **Zehao Wang**, Lanjun Wang. *Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing*. Machine Intelligence Research 2026 (SCI Q1)
@@ -62,6 +63,7 @@ My name is ****Zehao Wang****. My research focuses on **Risk Control AI, Multi-a
 - LLM and AI safety: adversarial attack/defense, jailbreak analysis, and risk evaluation
 
 # 📝 Selected Publications
+- **Zehao Wang**, Shilong Jin, Zhao Cao, Lanjun Wang. *When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems*. ICML 2026 (CCF-A)
 - **Zehao Wang**, Lanjun Wang, Fuxia Guo, Yanjie Dong. *Pattern-aware Illicit Account Detection based on User Behavior Sequences*. WWW 2026 (CCF-A)
 - **Zehao Wang**, Lanjun Wang. *NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection*. DASFAA 2026 (CCF-B)
 - **Zehao Wang**, Lanjun Wang. *Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing*. Machine Intelligence Research 2026 (SCI Q1)
