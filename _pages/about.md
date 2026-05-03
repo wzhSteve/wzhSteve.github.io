@@ -21,7 +21,7 @@ redirect_from:
   <button onclick="setAboutLang('zh')" id="btn-zh" style="padding: 4px 10px; margin-right: 8px; cursor: pointer;">中文</button>
 </div>
 
-<div id="about-en" markdown="1" style="display:none;">
+<div id="about-en" markdown="1">
 My name is ****Zehao Wang****. My research focuses on **Risk Control AI, Multi-agent Systems, and Anomaly Detection**. I currently work on risk reasoning and defense in multi-agent collaboration, graph/time-series anomaly detection, and LLM safety.
 
 
@@ -40,7 +40,7 @@ My name is ****Zehao Wang****. My research focuses on **Risk Control AI, Multi-a
 - **Zehao Wang**, Lanjun Wang, Fuxia Guo, Yanjie Dong. *Pattern-aware Illicit Account Detection based on User Behavior Sequences*. WWW 2026 (CCF-A)
 - **Zehao Wang**, Lanjun Wang. *NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection*. DASFAA 2026 (CCF-B)
 - **Zehao Wang**, Lanjun Wang. *Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing*. Machine Intelligence Research 2026 (SCI Q1)
-- Jin Fan, **Zehao Wang** $^{\ddag}$, Feiwei Qin, Huifeng Wu, Danfeng Sun, Jia Wu. *A distribution feature extracting network with dual correlation for long sequence time-series forecasting*. Neurocomputing 2025 (CCF-C, SCI Q2)
+- Jin Fan, **Zehao Wang** $^{*}$, Feiwei Qin, Huifeng Wu, Danfeng Sun, Jia Wu. *A distribution feature extracting network with dual correlation for long sequence time-series forecasting*. Neurocomputing 2025 (CCF-C, SCI Q2)
 - Lanjun Wang, **Zehao Wang**, Le Wu, An-An Liu. *Bots Shield Fake News: Adversarial Attack on User Engagement-based Fake News Detection*. CIKM 2024 (CCF-B)
 - **Zehao Wang**, Jin Fan, Huifeng Wu, Danfeng Sun, Jia Wu. *Representing Multi-view Time-series Graph Structures for Multivariate Long-term Time-series Forecasting*. IEEE TAI 2024 (JCR Q1)
 - Jin Fan, **Zehao Wang**, Huifeng Wu, Danfeng Sun, Jia Wu, Xin Lu. *An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection*. Neural Networks 2023 (CCF-B, SCI Q1)
@@ -49,7 +49,7 @@ My name is ****Zehao Wang****. My research focuses on **Risk Control AI, Multi-a
 </div>
 
 
-<div id="about-zh" markdown="1">
+<div id="about-zh" markdown="1" style="display:none;">
 我叫 **王则昊**，研究方向聚焦在**风控 AI、多智能体系统与异常检测**。当前主要围绕多智能体协作中的风险推理与防护、图与时序异常检测、以及大模型安全展开研究与实践。
 
 
@@ -68,7 +68,7 @@ My name is ****Zehao Wang****. My research focuses on **Risk Control AI, Multi-a
 - **Zehao Wang**, Lanjun Wang, Fuxia Guo, Yanjie Dong. *Pattern-aware Illicit Account Detection based on User Behavior Sequences*. WWW 2026 (CCF-A)
 - **Zehao Wang**, Lanjun Wang. *NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection*. DASFAA 2026 (CCF-B)
 - **Zehao Wang**, Lanjun Wang. *Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing*. Machine Intelligence Research 2026 (SCI Q1)
-- Jin Fan, **Zehao Wang** $^{\ddag}$, Feiwei Qin, Huifeng Wu, Danfeng Sun, Jia Wu. *A distribution feature extracting network with dual correlation for long sequence time-series forecasting*. Neurocomputing 2025 (CCF-C, SCI Q2)
+- Jin Fan, **Zehao Wang** $^{*}$, Feiwei Qin, Huifeng Wu, Danfeng Sun, Jia Wu. *A distribution feature extracting network with dual correlation for long sequence time-series forecasting*. Neurocomputing 2025 (CCF-C, SCI Q2)
 - Lanjun Wang, **Zehao Wang**, Le Wu, An-An Liu. *Bots Shield Fake News: Adversarial Attack on User Engagement-based Fake News Detection*. CIKM 2024 (CCF-B)
 - **Zehao Wang**, Jin Fan, Huifeng Wu, Danfeng Sun, Jia Wu. *Representing Multi-view Time-series Graph Structures for Multivariate Long-term Time-series Forecasting*. IEEE TAI 2024 (JCR Q1)
 - Jin Fan, **Zehao Wang**, Huifeng Wu, Danfeng Sun, Jia Wu, Xin Lu. *An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection*. Neural Networks 2023 (CCF-B, SCI Q1)
@@ -78,17 +78,17 @@ My name is ****Zehao Wang****. My research focuses on **Risk Control AI, Multi-a
 
 <script>
 function setAboutLang(lang) {
-  var zh = document.getElementById('about-zh');
   var en = document.getElementById('about-en');
+  var zh = document.getElementById('about-zh');
   var btnZh = document.getElementById('btn-zh');
   var btnEn = document.getElementById('btn-en');
-  var showZh = lang !== 'en';
+  var showEn = lang !== 'zh';
 
-  zh.style.display = showZh ? 'block' : 'none';
-  en.style.display = showZh ? 'none' : 'block';
-  btnZh.style.fontWeight = showZh ? '700' : '400';
-  btnEn.style.fontWeight = showZh ? '400' : '700';
+  zh.style.display = showEn ? 'none' : 'block';
+  en.style.display = showEn ? 'block' : 'none';
+  btnZh.style.fontWeight = showEn ? '400' : '700';
+  btnEn.style.fontWeight = showEn ? '700' : '400';
 }
 
-setAboutLang('zh');
+setAboutLang('en');
 </script>
