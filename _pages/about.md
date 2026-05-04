@@ -39,13 +39,13 @@ My name is ****Zehao Wang****. My research focuses on **Risk Control AI, Multi-a
 - **Zehao Wang**, Shilong Jin, Zhao Cao, Lanjun Wang. *When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems*. ICML 2026 (CCF-A)
 - **Zehao Wang**, Lanjun Wang, Fuxia Guo, Yanjie Dong. *Pattern-aware Illicit Account Detection based on User Behavior Sequences*. WWW 2026 (CCF-A)
 - **Zehao Wang**, Lanjun Wang. *NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection*. DASFAA 2026 (CCF-B)
-- **Zehao Wang**, Lanjun Wang. *Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing*. Machine Intelligence Research 2026 (SCI Q1)
-- Jin Fan, **Zehao Wang** $^{*}$, Feiwei Qin, Huifeng Wu, Danfeng Sun, Jia Wu. *A distribution feature extracting network with dual correlation for long sequence time-series forecasting*. Neurocomputing 2025 (CCF-C, SCI Q2)
+- **Zehao Wang**, Lanjun Wang. *Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing*. Machine Intelligence Research 2026 (JCR Q1)
+- Jin Fan, **Zehao Wang** $^{*}$, Feiwei Qin, Huifeng Wu, Danfeng Sun, Jia Wu. *A distribution feature extracting network with dual correlation for long sequence time-series forecasting*. Neurocomputing 2025 (CCF-C, JCR Q1)
 - Lanjun Wang, **Zehao Wang**, Le Wu, An-An Liu. *Bots Shield Fake News: Adversarial Attack on User Engagement-based Fake News Detection*. CIKM 2024 (CCF-B)
 - **Zehao Wang**, Jin Fan, Huifeng Wu, Danfeng Sun, Jia Wu. *Representing Multi-view Time-series Graph Structures for Multivariate Long-term Time-series Forecasting*. IEEE TAI 2024 (JCR Q1)
-- Jin Fan, **Zehao Wang**, Huifeng Wu, Danfeng Sun, Jia Wu, Xin Lu. *An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection*. Neural Networks 2023 (CCF-B, SCI Q1)
-- **Zehao Wang**, Huifeng Wu, Jin Fan, Danfeng Sun, Jia Wu. *A robust feature reinforcement framework for heterogeneous graphs neural networks*. FGCS 2023 (SCI Q1)
-- Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu. *Sepformer-based Models: More Efficient Models for Long Sequence Time-Series Forecasting*. IEEE TETC 2022 (SCI Q1)
+- Jin Fan, **Zehao Wang**, Huifeng Wu, Danfeng Sun, Jia Wu, Xin Lu. *An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection*. Neural Networks 2023 (CCF-B, JCR Q1)
+- **Zehao Wang**, Huifeng Wu, Jin Fan, Danfeng Sun, Jia Wu. *A robust feature reinforcement framework for heterogeneous graphs neural networks*. FGCS 2023 (JCR Q1)
+- Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu. *Sepformer-based Models: More Efficient Models for Long Sequence Time-Series Forecasting*. IEEE TETC 2022 (JCR Q1)
 </div>
 
 
@@ -67,13 +67,13 @@ My name is ****Zehao Wang****. My research focuses on **Risk Control AI, Multi-a
 - **Zehao Wang**, Shilong Jin, Zhao Cao, Lanjun Wang. *When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems*. ICML 2026 (CCF-A)
 - **Zehao Wang**, Lanjun Wang, Fuxia Guo, Yanjie Dong. *Pattern-aware Illicit Account Detection based on User Behavior Sequences*. WWW 2026 (CCF-A)
 - **Zehao Wang**, Lanjun Wang. *NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection*. DASFAA 2026 (CCF-B)
-- **Zehao Wang**, Lanjun Wang. *Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing*. Machine Intelligence Research 2026 (SCI Q1)
-- Jin Fan, **Zehao Wang** $^{*}$, Feiwei Qin, Huifeng Wu, Danfeng Sun, Jia Wu. *A distribution feature extracting network with dual correlation for long sequence time-series forecasting*. Neurocomputing 2025 (CCF-C, SCI Q2)
+- **Zehao Wang**, Lanjun Wang. *Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing*. Machine Intelligence Research 2026 (JCR Q1)
+- Jin Fan, **Zehao Wang** $^{*}$, Feiwei Qin, Huifeng Wu, Danfeng Sun, Jia Wu. *A distribution feature extracting network with dual correlation for long sequence time-series forecasting*. Neurocomputing 2025 (CCF-C, JCR Q1)
 - Lanjun Wang, **Zehao Wang**, Le Wu, An-An Liu. *Bots Shield Fake News: Adversarial Attack on User Engagement-based Fake News Detection*. CIKM 2024 (CCF-B)
 - **Zehao Wang**, Jin Fan, Huifeng Wu, Danfeng Sun, Jia Wu. *Representing Multi-view Time-series Graph Structures for Multivariate Long-term Time-series Forecasting*. IEEE TAI 2024 (JCR Q1)
-- Jin Fan, **Zehao Wang**, Huifeng Wu, Danfeng Sun, Jia Wu, Xin Lu. *An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection*. Neural Networks 2023 (CCF-B, SCI Q1)
-- **Zehao Wang**, Huifeng Wu, Jin Fan, Danfeng Sun, Jia Wu. *A robust feature reinforcement framework for heterogeneous graphs neural networks*. FGCS 2023 (SCI Q1)
-- Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu. *Sepformer-based Models: More Efficient Models for Long Sequence Time-Series Forecasting*. IEEE TETC 2022 (SCI Q1)
+- Jin Fan, **Zehao Wang**, Huifeng Wu, Danfeng Sun, Jia Wu, Xin Lu. *An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection*. Neural Networks 2023 (CCF-B, JCR Q1)
+- **Zehao Wang**, Huifeng Wu, Jin Fan, Danfeng Sun, Jia Wu. *A robust feature reinforcement framework for heterogeneous graphs neural networks*. FGCS 2023 (JCR Q1)
+- Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu. *Sepformer-based Models: More Efficient Models for Long Sequence Time-Series Forecasting*. IEEE TETC 2022 (JCR Q1)
 </div>
 
 <script>
