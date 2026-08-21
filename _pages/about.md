@@ -63,9 +63,9 @@ My current research explores how to build **reliable, self-improving multi-agent
 
 # 📝 Selected Publications
 
-- **Zehao Wang**, Shilong Jin, Zhao Cao, Lanjun Wang. *When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems*. **ICML 2026** (CCF-A)
-
 - **Zehao Wang**, Lanjun Wang, Shilong Jin, Junjie Chen, Yanghua Xiao. *DCFA: Dual-view Causal Attribution for Failure Reasoning in LLM-based Multi-agent Systems*. **EMNLP 2026** (CCF-B)
+
+- **Zehao Wang**, Shilong Jin, Zhao Cao, Lanjun Wang. *When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems*. **ICML 2026** (CCF-A)
 
 - **Zehao Wang**, Lanjun Wang, Fuxia Guo, Yanjie Dong. *Pattern-aware Illicit Account Detection based on User Behavior Sequences*. **WWW 2026** (CCF-A)
 
@@ -130,11 +130,11 @@ My current research explores how to build **reliable, self-improving multi-agent
 
 # 📝 代表论文
 
+- **Zehao Wang**, Lanjun Wang, Shilong Jin, Junjie Chen, Yanghua Xiao. *DCFA: Dual-view Causal Attribution for Failure Reasoning in LLM-based Multi-agent Systems*. **EMNLP 2026** (CCF-B)
+
 - **Zehao Wang**, Shilong Jin, Zhao Cao, Lanjun Wang. *When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems*. **ICML 2026** (CCF-A)
 
 - **Zehao Wang**, Lanjun Wang, Fuxia Guo, Yanjie Dong. *Pattern-aware Illicit Account Detection based on User Behavior Sequences*. **WWW 2026** (CCF-A)
-
-- **Zehao Wang**, Lanjun Wang, Shilong Jin, Junjie Chen, Yanghua Xiao. *DCFA: Dual-view Causal Attribution for Failure Reasoning in LLM-based Multi-agent Systems*. **EMNLP 2026** (CCF-B)
 
 - **Zehao Wang**, Lanjun Wang. *NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection*. **DASFAA 2026** (CCF-B)
 
