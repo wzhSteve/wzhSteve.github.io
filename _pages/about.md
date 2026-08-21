@@ -40,17 +40,13 @@ My current research explores how to build **reliable, self-improving multi-agent
 ### Multi-Agent Systems
 
 - LLM-based multi-agent workflows and collaboration
-- Planner–Executor–Verifier and hierarchical agent architectures
 - Workflow reliability and epistemic calibration
 - Failure attribution and causal reasoning in agent collaboration
-- Risk reasoning and active defense in multi-agent systems
 
 ### Agent Reinforcement Learning
 
 - Reinforcement learning for LLM-based agents
 - Exploration and exploitation in long-horizon agent trajectories
-- Outcome- and process-level reward modeling
-- Entropy-aware exploration and policy optimization
 - Self-improving and self-evolving agent systems
 
 ### Reliable AI & Risk Control
@@ -107,17 +103,13 @@ My current research explores how to build **reliable, self-improving multi-agent
 ### 多智能体系统
 
 - 基于大语言模型的多智能体 Workflow 与协作机制
-- Planner–Executor–Verifier 等多智能体架构
 - Workflow 可靠性与认知校准
 - 多智能体协作中的失败归因与因果推理
-- 多智能体系统中的风险推理与主动防御
 
 ### Agent Reinforcement Learning
 
 - 面向 LLM Agent 的强化学习
 - 长程 Agent Trajectory 中的探索与利用
-- Outcome-level 与 Process-level Reward Modeling
-- 基于 Entropy 的探索与策略优化
 - Agent 的自我改进与自进化
 
 ### Reliable AI & 风险控制
