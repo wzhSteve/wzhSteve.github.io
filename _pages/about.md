@@ -74,9 +74,9 @@ My current interests lie at the intersection of **Multi-Agent Systems, Agent Rei
 
 # 📰 News
 
-- **2026.09** — Our work on failure reasoning in LLM-based multi-agent systems was accepted to **EMNLP 2026**.
-- **2026.07** — Our work on epistemic calibration in LLM-based multi-agent planning was accepted to **ICML 2026**.
-- **2026.05** — Our work on illicit account detection based on user behavior sequences was accepted to **WWW 2026**.
+- **2026.08** — Our work on failure reasoning in LLM-based multi-agent systems was accepted to **EMNLP 2026**.
+- **2026.05** — Our work on epistemic calibration in LLM-based multi-agent planning was accepted to **ICML 2026**.
+- **2026.01** — Our work on illicit account detection based on user behavior sequences was accepted to **WWW 2026**.
 - **2026** — Continuing research on **reliable and self-improving LLM agents**.
 
 
@@ -276,9 +276,9 @@ If you are interested in discussing research ideas or potential collaboration, f
 
 # 📰 最新动态
 
-- **2026.09** — 关于 LLM-based Multi-Agent Systems 失败推理的工作被 **EMNLP 2026** 接收。
-- **2026.07** — 关于 LLM-based Multi-Agent Systems 认知校准的工作被 **ICML 2026** 接收。
-- **2026.05** — 关于用户行为序列与黑产账户检测的工作被 **WWW 2026** 接收。
+- **2026.08** — 关于 LLM-based Multi-Agent Systems 失败推理的工作被 **EMNLP 2026** 接收。
+- **2026.05** — 关于 LLM-based Multi-Agent Systems 认知校准的工作被 **ICML 2026** 接收。
+- **2026.01** — 关于用户行为序列与黑产账户检测的工作被 **WWW 2026** 接收。
 - **2026** — 持续开展**可靠、自我改进型 LLM Agent**相关研究。
 
 
