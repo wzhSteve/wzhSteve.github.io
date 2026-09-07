@@ -3,12 +3,13 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 <span class='anchor' id='about-me'></span>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -16,150 +17,482 @@ redirect_from:
 {% endif %}
 {% assign scholarBadgeUrl = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<div id="lang-switcher" style="margin: 8px 0 16px 0;">
-  <button onclick="setAboutLang('en')" id="btn-en" style="padding: 4px 10px; cursor: pointer;">English</button>
-  <button onclick="setAboutLang('zh')" id="btn-zh" style="padding: 4px 10px; margin-right: 8px; cursor: pointer;">中文</button>
+
+<!-- ==================== Language Switcher ==================== -->
+
+<div id="lang-switcher" style="
+  margin: 8px 0 28px 0;
+  font-size: 0.9rem;
+">
+  <button
+    onclick="setAboutLang('en')"
+    id="btn-en"
+    style="
+      border: none;
+      background: none;
+      padding: 0;
+      margin-right: 14px;
+      cursor: pointer;
+      color: #222;
+    ">
+    English
+  </button>
+
+  <button
+    onclick="setAboutLang('zh')"
+    id="btn-zh"
+    style="
+      border: none;
+      background: none;
+      padding: 0;
+      cursor: pointer;
+      color: #888;
+    ">
+    中文
+  </button>
 </div>
 
+
+<!-- ========================================================= -->
+<!-- ======================== ENGLISH ========================= -->
+<!-- ========================================================= -->
 
 <div id="about-en" markdown="1">
 
-My name is **Zehao Wang**. I am a Ph.D. student in Software Engineering at Tianjin University. My research focuses on **LLM-based Multi-Agent Systems (MAS), Agent Reinforcement Learning, and Risk Reasoning**.
+# Zehao Wang
 
-My current research explores how to build **reliable, self-improving multi-agent systems** through better workflow design, epistemic calibration, causal reasoning, and reinforcement learning. In particular, I am interested in how agents coordinate, reason about failures, and learn better strategies from interaction and experience.
+**Ph.D. Student in Software Engineering, Tianjin University**
 
-# 🎓 Education
+I study **reliable and self-improving LLM agents and multi-agent systems**. My research focuses on how agents can **make reliable decisions, coordinate effectively, diagnose failures, and continuously improve from interaction and experience**.
 
-- *2024.09 - 2028.06*, Tianjin University, Ph.D. in Software Engineering
-- *2021.09 - 2024.06*, Hangzhou Dianzi University, M.S. in Computer Technology
-- *2016.09 - 2020.06*, Xidian University, B.Eng. in Communication Engineering
+My current interests lie at the intersection of **Multi-Agent Systems, Agent Reinforcement Learning, Epistemic Reasoning, and Trustworthy AI**, with an emphasis on building agent systems that can reason about their own decisions and learn better strategies over time.
+
+[Google Scholar](https://scholar.google.com/) · [GitHub](https://github.com/) · [Email](mailto:your-email@example.com) · [CV](/files/CV.pdf)
 
 
-# 🔬 Research Interests
+---
 
-### Multi-Agent Systems
+# 📰 News
 
-- LLM-based multi-agent workflows and collaboration
-- Workflow reliability and epistemic calibration
-- Failure attribution and causal reasoning in agent collaboration
+- **2026.09** — Our work on failure reasoning in LLM-based multi-agent systems was accepted to **EMNLP 2026**.
+- **2026.07** — Our work on epistemic calibration in LLM-based multi-agent planning was accepted to **ICML 2026**.
+- **2026.05** — Our work on illicit account detection based on user behavior sequences was accepted to **WWW 2026**.
+- **2026** — Continuing research on **reliable and self-improving LLM agents**.
 
-### Agent Reinforcement Learning
 
-- Reinforcement learning for LLM-based agents
-- Exploration and exploitation in long-horizon agent trajectories
-- Self-improving and self-evolving agent systems
+---
 
-### Reliable AI & Risk Control
+# 🔬 Research
 
-- Risk reasoning and defense for LLM-based systems
+My research is organized around a central question:
+
+> **How can LLM agents become more reliable and continuously improve from their own experience?**
+
+### Reliable LLM Agents
+
+I study the reliability of LLM-based agents from a **decision-centric and epistemic perspective**.
+
+- Epistemic calibration and decision reliability
+- Reliable planning and execution
+- Failure diagnosis and attribution
+- Causal reasoning for agent decisions
+- Hierarchical intervention and decision correction
+
+### Self-Improving Agents
+
+I investigate how agents can **learn from interaction, experience, and failures** rather than relying solely on static prompts or external supervision.
+
+- Agent reinforcement learning
+- Long-horizon trajectory exploration
+- Credit assignment and strategy learning
+- Online knowledge evolution
+- Self-improving and self-evolving agents
+
+### Trustworthy AI & Risk Control
+
+I also work on trustworthy AI and intelligent risk-control systems, particularly where **behavioral modeling, reasoning, and anomaly detection** intersect.
+
+- Risk reasoning and intelligent intervention
 - LLM safety and adversarial robustness
+- User behavior modeling
 - Graph and temporal anomaly detection
-- User behavior modeling and illicit-account detection
+- Illicit-account and malicious-user detection
 
+
+---
+
+# 🚀 Research Projects
+
+### Reliable Multi-Agent Systems
+
+Developing methods to improve the reliability of LLM-based multi-agent systems through **epistemic calibration, hierarchical intervention, failure attribution, and structured reasoning**.
+
+### Self-Evolving Agent Systems
+
+Exploring **online knowledge evolution and agent reinforcement learning** to enable agents to learn useful decision knowledge from interaction and continuously improve their behavior.
+
+### AI Risk Control
+
+Applying **LLM reasoning, behavioral modeling, graph learning, and anomaly detection** to intelligent risk detection and intervention in real-world systems.
+
+
+---
 
 # 📝 Selected Publications
 
-- **Zehao Wang**, Lanjun Wang, Shilong Jin, Junjie Chen, Yanghua Xiao. *DCFA: Dual-view Causal Attribution for Failure Reasoning in LLM-based Multi-agent Systems*. **EMNLP 2026** (CCF-B)
+### LLM Agents & Multi-Agent Systems
 
-- **Zehao Wang**, Shilong Jin, Zhao Cao, Lanjun Wang. *When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems*. **ICML 2026** (CCF-A)
+**Zehao Wang**, Lanjun Wang, Shilong Jin, Junjie Chen, Yanghua Xiao.  
+*DCFA: Dual-view Causal Attribution for Failure Reasoning in LLM-based Multi-agent Systems.*  
+**EMNLP 2026.**
 
-- **Zehao Wang**, Lanjun Wang, Fuxia Guo, Yanjie Dong. *Pattern-aware Illicit Account Detection based on User Behavior Sequences*. **WWW 2026** (CCF-A)
+**Zehao Wang**, Shilong Jin, Zhao Cao, Lanjun Wang.  
+*When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems.*  
+**ICML 2026.**
 
-- **Zehao Wang**, Lanjun Wang. *NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection*. **DASFAA 2026** (CCF-B)
+### Trustworthy AI & Risk Control
 
-- **Zehao Wang**, Lanjun Wang. *Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing*. **Machine Intelligence Research 2026** (JCR Q1)
+**Zehao Wang**, Lanjun Wang, Fuxia Guo, Yanjie Dong.  
+*Pattern-aware Illicit Account Detection based on User Behavior Sequences.*  
+**WWW 2026.**
 
-- Jin Fan, **Zehao Wang** $^{\star}$, Feiwei Qin, Huifeng Wu, Danfeng Sun, Jia Wu. *A distribution feature extracting network with dual correlation for long sequence time-series forecasting*. **Neurocomputing 2025** (CCF-C, JCR Q1)
+**Zehao Wang**, Lanjun Wang.  
+*NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection.*  
+**DASFAA 2026.**
 
-- Lanjun Wang, **Zehao Wang**, Le Wu, An-An Liu. *Bots Shield Fake News: Adversarial Attack on User Engagement-based Fake News Detection*. **CIKM 2024** (CCF-B)
+**Zehao Wang**, Lanjun Wang.  
+*Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing.*  
+**Machine Intelligence Research, 2026.**
 
-- **Zehao Wang**, Jin Fan, Huifeng Wu, Danfeng Sun, Jia Wu. *Representing Multi-view Time-series Graph Structures for Multivariate Long-term Time-series Forecasting*. **IEEE TAI 2024** (JCR Q1)
 
-- Jin Fan, **Zehao Wang**, Huifeng Wu, Danfeng Sun, Jia Wu, Xin Lu. *An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection*. **Neural Networks 2023** (CCF-B, JCR Q1)
+---
 
-- **Zehao Wang**, Huifeng Wu, Jin Fan, Danfeng Sun, Jia Wu. *A robust feature reinforcement framework for heterogeneous graphs neural networks*. **FGCS 2023** (JCR Q1)
+# 📚 Other Publications
 
-- Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu. *Sepformer-based Models: More Efficient Models for Long Sequence Time-Series Forecasting*. **IEEE TETC 2022** (JCR Q1)
+Jin Fan, **Zehao Wang**$^{\star}$, Feiwei Qin, Huifeng Wu, Danfeng Sun, Jia Wu.  
+*A distribution feature extracting network with dual correlation for long sequence time-series forecasting.*  
+**Neurocomputing, 2025.**
+
+Lanjun Wang, **Zehao Wang**, Le Wu, An-An Liu.  
+*Bots Shield Fake News: Adversarial Attack on User Engagement-based Fake News Detection.*  
+**CIKM 2024.**
+
+**Zehao Wang**, Jin Fan, Huifeng Wu, Danfeng Sun, Jia Wu.  
+*Representing Multi-view Time-series Graph Structures for Multivariate Long-term Time-series Forecasting.*  
+**IEEE Transactions on Artificial Intelligence, 2024.**
+
+Jin Fan, **Zehao Wang**, Huifeng Wu, Danfeng Sun, Jia Wu, Xin Lu.  
+*An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection.*  
+**Neural Networks, 2023.**
+
+**Zehao Wang**, Huifeng Wu, Jin Fan, Danfeng Sun, Jia Wu.  
+*A robust feature reinforcement framework for heterogeneous graphs neural networks.*  
+**Future Generation Computer Systems, 2023.**
+
+Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu.  
+*Sepformer-based Models: More Efficient Models for Long Sequence Time-Series Forecasting.*  
+**IEEE Transactions on Emerging Topics in Computing, 2022.**
+
+
+---
+
+# 💼 Research & Industry Experience
+
+### Huawei / FusionServer Research Institute
+
+**Research / System Architect**  
+*2025 – Present*
+
+- Research on reliable LLM-based multi-agent systems.
+- Agent failure diagnosis, attribution, and system-level reliability.
+- Multi-agent workflow design and evaluation.
+- Research translation toward large-scale enterprise AI systems.
+
+
+### Tencent
+
+**Research Project — Intelligent Risk Control**
+
+- User behavior modeling and illicit-account detection.
+- Behavioral sequence analysis and anomaly detection.
+- Intelligent risk identification and intervention.
+
+
+---
+
+# 🎓 Education
+
+**Tianjin University**  
+Ph.D. in Software Engineering  
+*2024.09 – 2028.06*
+
+**Hangzhou Dianzi University**  
+M.S. in Computer Technology  
+*2021.09 – 2024.06*
+
+**Xidian University**  
+B.Eng. in Communication Engineering  
+*2016.09 – 2020.06*
+
+
+---
+
+# 🤝 Research Collaboration
+
+I am interested in research collaborations on:
+
+- LLM-based agents and multi-agent systems
+- Agent reinforcement learning
+- Reliable and trustworthy AI
+- Agent reasoning and decision making
+- Self-improving and self-evolving agents
+
+If you are interested in discussing research ideas or potential collaboration, feel free to reach out.
+
 
 </div>
 
+
+<!-- ========================================================= -->
+<!-- ========================== 中文 ========================== -->
+<!-- ========================================================= -->
 
 <div id="about-zh" markdown="1" style="display:none;">
 
-我叫 **王则昊**，是天津大学软件工程专业博士研究生。我的研究主要聚焦于 **LLM-based Multi-Agent Systems（多智能体系统）、Agent Reinforcement Learning（智能体强化学习）与风险推理**。
+# 王则昊
 
-目前，我主要研究如何通过**多智能体 Workflow、认知校准、因果推理与强化学习**，构建更加可靠、能够持续自我改进的智能体系统。重点关注智能体之间如何协作、如何理解和归因失败、如何从交互经验中学习更好的决策策略。
+**天津大学软件工程博士研究生**
+
+我的研究主要聚焦于**可靠且能够持续自我改进的大语言模型智能体（LLM Agents）与多智能体系统（Multi-Agent Systems）**。
+
+我关注智能体如何**做出可靠决策、进行有效协作、理解和诊断自身失败，并从交互经验中持续学习和改进**。
+
+目前的研究主要位于 **Multi-Agent Systems、Agent Reinforcement Learning、Epistemic Reasoning 与 Trustworthy AI** 的交叉领域，重点探索如何让智能体具备更加可靠的决策能力，以及如何通过经验和强化学习实现持续自我改进。
+
+[Google Scholar](https://scholar.google.com/) · [GitHub](https://github.com/) · [Email](mailto:your-email@example.com) · [CV](/files/CV.pdf)
 
 
-# 🎓 教育经历
+---
 
-- *2024.09 - 2028.06*，天津大学，博士（软件工程）
-- *2021.09 - 2024.06*，杭州电子科技大学，硕士（计算机技术）
-- *2016.09 - 2020.06*，西安电子科技大学，本科（通信工程）
+# 📰 最新动态
 
+- **2026.09** — 关于 LLM-based Multi-Agent Systems 失败推理的工作被 **EMNLP 2026** 接收。
+- **2026.07** — 关于 LLM-based Multi-Agent Systems 认知校准的工作被 **ICML 2026** 接收。
+- **2026.05** — 关于用户行为序列与黑产账户检测的工作被 **WWW 2026** 接收。
+- **2026** — 持续开展**可靠、自我改进型 LLM Agent**相关研究。
+
+
+---
 
 # 🔬 研究方向
 
-### 多智能体系统
+我的研究围绕一个核心问题展开：
 
-- 基于大语言模型的多智能体 Workflow 与协作机制
-- Workflow 可靠性与认知校准
-- 多智能体协作中的失败归因与因果推理
+> **如何让 LLM Agent 做出更加可靠的决策，并能够从自身经验中持续学习和改进？**
 
-### Agent Reinforcement Learning
+### Reliable LLM Agents
 
-- 面向 LLM Agent 的强化学习
-- 长程 Agent Trajectory 中的探索与利用
-- Agent 的自我改进与自进化
+从**决策与认知（epistemic）视角**研究 LLM Agent 的可靠性。
 
-### Reliable AI & 风险控制
+- 认知校准与决策可靠性
+- Agent Planning 与 Execution 可靠性
+- Agent Failure Diagnosis 与 Attribution
+- 面向 Agent 决策的因果推理
+- 分级干预与决策纠正
 
-- LLM 系统中的风险推理与安全防御
-- 大模型安全与对抗鲁棒性
-- 图异常检测与时序异常检测
-- 用户行为建模与黑产账户检测
+### Self-Improving Agents
+
+研究智能体如何从**交互、经验和失败中学习**，而不是完全依赖静态 Prompt 或外部监督。
+
+- Agent Reinforcement Learning
+- 长程 Agent Trajectory 探索
+- Credit Assignment 与策略学习
+- Online Knowledge Evolution
+- Self-improving / Self-evolving Agents
+
+### Trustworthy AI & 风险控制
+
+研究可信人工智能与智能风险控制，重点关注**行为建模、推理与异常检测**的结合。
+
+- 风险推理与智能干预
+- LLM 安全与对抗鲁棒性
+- 用户行为建模
+- 图与时序异常检测
+- 黑产账户与恶意用户检测
 
 
-# 📝 代表论文
+---
 
-- **Zehao Wang**, Lanjun Wang, Shilong Jin, Junjie Chen, Yanghua Xiao. *DCFA: Dual-view Causal Attribution for Failure Reasoning in LLM-based Multi-agent Systems*. **EMNLP 2026** (CCF-B)
+# 🚀 研究项目
 
-- **Zehao Wang**, Shilong Jin, Zhao Cao, Lanjun Wang. *When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems*. **ICML 2026** (CCF-A)
+### Reliable Multi-Agent Systems
 
-- **Zehao Wang**, Lanjun Wang, Fuxia Guo, Yanjie Dong. *Pattern-aware Illicit Account Detection based on User Behavior Sequences*. **WWW 2026** (CCF-A)
+研究通过**认知校准、分级干预、失败归因与结构化推理**提升 LLM-based Multi-Agent Systems 可靠性的方法。
 
-- **Zehao Wang**, Lanjun Wang. *NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection*. **DASFAA 2026** (CCF-B)
+### Self-Evolving Agent Systems
 
-- **Zehao Wang**, Lanjun Wang. *Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing*. **Machine Intelligence Research 2026** (JCR Q1)
+研究 **Online Knowledge Evolution 与 Agent Reinforcement Learning**，使智能体能够从交互过程中积累有效的决策知识，并持续改进自身行为。
 
-- Jin Fan, **Zehao Wang** $^{\star}$, Feiwei Qin, Huifeng Wu, Danfeng Sun, Jia Wu. *A distribution feature extracting network with dual correlation for long sequence time-series forecasting*. **Neurocomputing 2025** (CCF-C, JCR Q1)
+### AI Risk Control
 
-- Lanjun Wang, **Zehao Wang**, Le Wu, An-An Liu. *Bots Shield Fake News: Adversarial Attack on User Engagement-based Fake News Detection*. **CIKM 2024** (CCF-B)
+结合 **LLM 推理、用户行为建模、图学习与异常检测**，研究面向真实场景的智能风险识别与干预。
 
-- **Zehao Wang**, Jin Fan, Huifeng Wu, Danfeng Sun, Jia Wu. *Representing Multi-view Time-series Graph Structures for Multivariate Long-term Time-series Forecasting*. **IEEE TAI 2024** (JCR Q1)
 
-- Jin Fan, **Zehao Wang**, Huifeng Wu, Danfeng Sun, Jia Wu, Xin Lu. *An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection*. **Neural Networks 2023** (CCF-B, JCR Q1)
+---
 
-- **Zehao Wang**, Huifeng Wu, Jin Fan, Danfeng Sun, Jia Wu. *A robust feature reinforcement framework for heterogeneous graphs neural networks*. **FGCS 2023** (JCR Q1)
+# 📝 代表性论文
 
-- Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu. *Sepformer-based Models: More Efficient Models for Long Sequence Time-Series Forecasting*. **IEEE TETC 2022** (JCR Q1)
+### LLM Agents & Multi-Agent Systems
+
+**Zehao Wang**, Lanjun Wang, Shilong Jin, Junjie Chen, Yanghua Xiao.  
+*DCFA: Dual-view Causal Attribution for Failure Reasoning in LLM-based Multi-agent Systems.*  
+**EMNLP 2026.**
+
+**Zehao Wang**, Shilong Jin, Zhao Cao, Lanjun Wang.  
+*When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems.*  
+**ICML 2026.**
+
+### Trustworthy AI & Risk Control
+
+**Zehao Wang**, Lanjun Wang, Fuxia Guo, Yanjie Dong.  
+*Pattern-aware Illicit Account Detection based on User Behavior Sequences.*  
+**WWW 2026.**
+
+**Zehao Wang**, Lanjun Wang.  
+*NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection.*  
+**DASFAA 2026.**
+
+**Zehao Wang**, Lanjun Wang.  
+*Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing.*  
+**Machine Intelligence Research, 2026.**
+
+
+---
+
+# 📚 其他论文
+
+Jin Fan, **Zehao Wang**$^{\star}$, Feiwei Qin, Huifeng Wu, Danfeng Sun, Jia Wu.  
+*A distribution feature extracting network with dual correlation for long sequence time-series forecasting.*  
+**Neurocomputing, 2025.**
+
+Lanjun Wang, **Zehao Wang**, Le Wu, An-An Liu.  
+*Bots Shield Fake News: Adversarial Attack on User Engagement-based Fake News Detection.*  
+**CIKM 2024.**
+
+**Zehao Wang**, Jin Fan, Huifeng Wu, Danfeng Sun, Jia Wu.  
+*Representing Multi-view Time-series Graph Structures for Multivariate Long-term Time-series Forecasting.*  
+**IEEE Transactions on Artificial Intelligence, 2024.**
+
+Jin Fan, **Zehao Wang**, Huifeng Wu, Danfeng Sun, Jia Wu, Xin Lu.  
+*An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection.*  
+**Neural Networks, 2023.**
+
+**Zehao Wang**, Huifeng Wu, Jin Fan, Danfeng Sun, Jia Wu.  
+*A robust feature reinforcement framework for heterogeneous graphs neural networks.*  
+**Future Generation Computer Systems, 2023.**
+
+Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu.  
+*Sepformer-based Models: More Efficient Models for Long Sequence Time-Series Forecasting.*  
+**IEEE Transactions on Emerging Topics in Computing, 2022.**
+
+
+---
+
+# 💼 科研与产业经历
+
+### 华为 / 超聚变中央研究院
+
+**Research / System Architect**  
+*2025 – Present*
+
+- 可靠 LLM-based Multi-Agent Systems 研究。
+- Agent Failure Diagnosis、Attribution 与系统可靠性研究。
+- Multi-Agent Workflow 设计与系统评估。
+- 面向企业级 AI 系统的研究成果转化。
+
+
+### 腾讯
+
+**智能风控研究项目**
+
+- 黑产账户与用户行为建模。
+- 用户行为序列分析与异常检测。
+- 智能风险识别与干预。
+
+
+---
+
+# 🎓 教育经历
+
+**天津大学**  
+软件工程博士  
+*2024.09 – 2028.06*
+
+**杭州电子科技大学**  
+计算机技术硕士  
+*2021.09 – 2024.06*
+
+**西安电子科技大学**  
+通信工程学士  
+*2016.09 – 2020.06*
+
+
+---
+
+# 🤝 学术合作
+
+欢迎围绕以下方向进行学术交流与合作：
+
+- LLM Agents 与 Multi-Agent Systems
+- Agent Reinforcement Learning
+- Reliable & Trustworthy AI
+- Agent Reasoning 与 Decision Making
+- Self-Improving / Self-Evolving Agents
+
+如果你对相关研究方向感兴趣，欢迎通过 Email 与我联系。
+
 
 </div>
 
+
+<!-- ========================================================= -->
+<!-- ======================== SCRIPT ========================== -->
+<!-- ========================================================= -->
 
 <script>
 function setAboutLang(lang) {
   var en = document.getElementById('about-en');
   var zh = document.getElementById('about-zh');
+
   var btnZh = document.getElementById('btn-zh');
   var btnEn = document.getElementById('btn-en');
+
   var showEn = lang !== 'zh';
 
   zh.style.display = showEn ? 'none' : 'block';
   en.style.display = showEn ? 'block' : 'none';
-  btnZh.style.fontWeight = showEn ? '400' : '700';
-  btnEn.style.fontWeight = showEn ? '700' : '400';
+
+  btnZh.style.fontWeight = showEn ? '400' : '600';
+  btnEn.style.fontWeight = showEn ? '600' : '400';
+
+  btnZh.style.color = showEn ? '#888' : '#222';
+  btnEn.style.color = showEn ? '#222' : '#888';
+
+  try {
+    localStorage.setItem('aboutLang', lang);
+  } catch (e) {}
 }
 
-setAboutLang('en');
+(function() {
+  var lang = 'en';
+
+  try {
+    var savedLang = localStorage.getItem('aboutLang');
+    if (savedLang === 'zh' || savedLang === 'en') {
+      lang = savedLang;
+    }
+  } catch (e) {}
+
+  setAboutLang(lang);
+})();
 </script>
