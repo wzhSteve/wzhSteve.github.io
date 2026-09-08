@@ -274,6 +274,8 @@ I study **reliable and self-improving LLM agents and multi-agent systems**. My r
 
 My current interests lie at the intersection of **Multi-Agent Systems, Agent Reinforcement Learning, Epistemic Reasoning, and Trustworthy AI**, with an emphasis on building agent systems that can reason about their own decisions and learn better strategies over time.
 
+</div>
+
 ---
 
 # News
@@ -766,7 +768,7 @@ If you are interested in discussing research ideas or potential collaboration, f
 
 目前的研究主要位于 **Multi-Agent Systems、Agent Reinforcement Learning、Epistemic Reasoning 与 Trustworthy AI** 的交叉领域，重点探索如何让智能体具备更加可靠的决策能力，以及如何通过经验和强化学习实现持续自我改进。
 
-
+</div>
 
 ---
 
@@ -1039,7 +1041,7 @@ IEEE Transactions on Emerging Topics in Computing.
 
 <p>
 研究智能体如何从交互、经验和失败中学习，而不是完全依赖静态 Prompt 或外部监督。
-</P>
+</p>
 
 <ul>
 <li>Agent Reinforcement Learning</li>
