@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
+<span class="anchor" id="about-me"></span>
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -18,160 +18,104 @@ redirect_from:
 {% assign scholarBadgeUrl = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-<!-- ========================================================= -->
-<!-- ======================== STYLE =========================== -->
-<!-- ========================================================= -->
+<!-- ==================== STYLE ==================== -->
 
 <style>
 
-:root {
-  --accent: #1769aa;
-  --text: #222;
-  --muted: #666;
-  --light: #888;
-  --border: #e8e8e8;
-  --soft: #f7f9fb;
-}
-
-/* ---------- Language Switcher ---------- */
-
 #lang-switcher {
-  margin: 4px 0 34px 0;
+  margin: 6px 0 30px 0;
   padding-bottom: 10px;
-  border-bottom: 1px solid var(--border);
-  font-size: 0.86rem;
-  letter-spacing: 0.01em;
+  border-bottom: 1px solid #e8e8e8;
+  font-size: 0.88rem;
 }
 
 #lang-switcher button {
   border: none;
   background: transparent;
   padding: 0;
-  margin-right: 18px;
+  margin-right: 16px;
   cursor: pointer;
   font-family: inherit;
   font-size: inherit;
-  transition: all 0.2s ease;
 }
 
 #lang-switcher button:hover {
-  color: var(--accent) !important;
+  color: #1769aa !important;
 }
 
-/* ---------- Main Typography ---------- */
 
-#about-en,
-#about-zh {
-  max-width: 900px;
-  color: var(--text);
-  line-height: 1.75;
-}
-
-#about-en h1,
-#about-zh h1 {
-  margin-top: 0;
-  margin-bottom: 8px;
-  font-size: 2.35rem;
-  font-weight: 700;
-  letter-spacing: -0.025em;
-}
-
-#about-en h2,
-#about-zh h2 {
-  margin-top: 48px;
-  margin-bottom: 20px;
-  padding-bottom: 9px;
-  border-bottom: 1px solid var(--border);
-  font-size: 1.38rem;
-  font-weight: 650;
-  letter-spacing: -0.01em;
-}
-
-#about-en h3,
-#about-zh h3 {
-  margin-top: 28px;
-  margin-bottom: 8px;
-  font-size: 1.05rem;
-  font-weight: 650;
-}
-
-#about-en h4,
-#about-zh h4 {
-  margin-top: 22px;
-  margin-bottom: 7px;
-  font-size: 0.96rem;
-  font-weight: 600;
-  color: #444;
-}
-
-/* ---------- Links ---------- */
-
-#about-en a,
-#about-zh a {
-  color: var(--accent);
-  text-decoration: none;
-}
-
-#about-en a:hover,
-#about-zh a:hover {
-  text-decoration: underline;
-}
-
-/* ---------- Intro ---------- */
+/* ==================== Profile ==================== */
 
 .profile-subtitle {
-  margin: 0 0 20px 0;
+  margin-top: -2px;
+  margin-bottom: 18px;
   color: #555;
   font-size: 1.02rem;
 }
 
-.profile-description {
-  max-width: 820px;
-  margin-bottom: 18px;
+.profile-text {
+  max-width: 850px;
+  line-height: 1.8;
 }
 
 .profile-links {
-  margin: 18px 0 8px 0;
+  margin-top: 18px;
+  margin-bottom: 5px;
   font-size: 0.92rem;
 }
 
 .profile-links a {
-  margin-right: 15px;
-  white-space: nowrap;
+  margin-right: 14px;
 }
 
-/* ---------- Research Cards ---------- */
+
+/* ==================== News ==================== */
+
+.news-item {
+  margin-bottom: 9px;
+  line-height: 1.65;
+}
+
+.news-date {
+  display: inline-block;
+  width: 70px;
+  color: #1769aa;
+  font-weight: 600;
+}
+
+
+/* ==================== Research ==================== */
 
 .research-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 14px;
-  margin: 8px 0 12px 0;
+  margin: 20px 0 10px 0;
 }
 
 .research-card {
-  padding: 17px 18px 15px 18px;
-  background: var(--soft);
-  border: 1px solid #edf0f2;
-  border-radius: 6px;
+  padding: 17px 18px;
+  background: #f7f9fb;
+  border: 1px solid #e9edf0;
+  border-radius: 5px;
 }
 
 .research-card h3 {
-  margin: 0 0 8px 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 9px !important;
   font-size: 1rem !important;
-  color: #222;
 }
 
 .research-card p {
-  margin: 0;
+  margin-bottom: 8px;
+  color: #555;
   font-size: 0.88rem;
   line-height: 1.65;
-  color: #555;
 }
 
 .research-card ul {
-  margin: 9px 0 0 17px;
-  padding: 0;
+  margin-top: 7px;
+  padding-left: 18px;
 }
 
 .research-card li {
@@ -179,21 +123,17 @@ redirect_from:
   font-size: 0.84rem;
 }
 
-/* ---------- Publications ---------- */
 
-.pub-section {
-  margin-top: 6px;
-}
+/* ==================== Publications ==================== */
 
 .pub-item {
-  position: relative;
-  margin: 0 0 20px 0;
-  padding: 0 0 18px 15px;
+  margin: 0 0 21px 0;
+  padding: 0 0 17px 14px;
   border-left: 2px solid #e5e9ed;
 }
 
 .pub-item:hover {
-  border-left-color: var(--accent);
+  border-left-color: #1769aa;
 }
 
 .pub-venue {
@@ -201,62 +141,36 @@ redirect_from:
   margin-bottom: 5px;
   padding: 2px 7px;
   border-radius: 3px;
-  background: #f0f5f9;
-  color: var(--accent);
-  font-size: 0.76rem;
+  background: #eef4f8;
+  color: #1769aa;
+  font-size: 0.74rem;
   font-weight: 700;
-  letter-spacing: 0.02em;
 }
 
 .pub-authors {
-  margin-bottom: 2px;
-  font-size: 0.88rem;
+  margin-bottom: 3px;
   color: #555;
+  font-size: 0.88rem;
 }
 
 .pub-title {
-  font-size: 0.94rem;
+  font-size: 0.93rem;
   line-height: 1.55;
 }
 
 .pub-journal {
-  margin-top: 2px;
+  margin-top: 3px;
   color: #777;
   font-size: 0.82rem;
   font-style: italic;
 }
 
-/* ---------- Lists ---------- */
 
-#about-en ul,
-#about-zh ul {
-  padding-left: 20px;
-}
-
-#about-en li,
-#about-zh li {
-  margin-bottom: 5px;
-}
-
-/* ---------- News ---------- */
-
-.news-item {
-  margin-bottom: 9px;
-  font-size: 0.92rem;
-}
-
-.news-date {
-  display: inline-block;
-  min-width: 72px;
-  color: var(--accent);
-  font-weight: 650;
-}
-
-/* ---------- Experience / Education ---------- */
+/* ==================== Timeline ==================== */
 
 .timeline-item {
-  margin: 0 0 25px 0;
-  padding-left: 16px;
+  margin-bottom: 26px;
+  padding-left: 15px;
   border-left: 2px solid #e5e9ed;
 }
 
@@ -267,7 +181,7 @@ redirect_from:
 }
 
 .timeline-role {
-  margin-bottom: 3px;
+  margin-bottom: 2px;
   color: #555;
   font-size: 0.9rem;
 }
@@ -279,29 +193,35 @@ redirect_from:
   font-style: italic;
 }
 
-/* ---------- Collaboration ---------- */
+
+/* ==================== Collaboration ==================== */
 
 .collaboration-box {
-  margin-top: 8px;
-  padding: 17px 20px;
-  background: var(--soft);
-  border-left: 3px solid var(--accent);
-  border-radius: 3px;
+  margin-top: 10px;
+  padding: 16px 20px;
+  border-left: 3px solid #1769aa;
+  background: #f7f9fb;
 }
 
-/* ---------- Mobile ---------- */
+
+/* ==================== Headings ==================== */
+
+#about-en h2,
+#about-zh h2 {
+  margin-top: 48px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+#about-en h3,
+#about-zh h3 {
+  margin-top: 27px;
+}
+
+
+/* ==================== Mobile ==================== */
 
 @media (max-width: 700px) {
-
-  #about-en,
-  #about-zh {
-    max-width: 100%;
-  }
-
-  #about-en h1,
-  #about-zh h1 {
-    font-size: 2rem;
-  }
 
   .research-grid {
     grid-template-columns: 1fr;
@@ -313,30 +233,25 @@ redirect_from:
   }
 
   .news-date {
-    min-width: 62px;
+    width: 62px;
   }
+
 }
 
 </style>
 
 
-<!-- ========================================================= -->
-<!-- ==================== LANGUAGE SWITCHER ================== -->
-<!-- ========================================================= -->
+<!-- ==================== LANGUAGE SWITCHER ==================== -->
 
 <div id="lang-switcher">
 
-  <button
-    onclick="setAboutLang('en')"
-    id="btn-en">
-    English
-  </button>
+<button onclick="setAboutLang('en')" id="btn-en">
+English
+</button>
 
-  <button
-    onclick="setAboutLang('zh')"
-    id="btn-zh">
-    中文
-  </button>
+<button onclick="setAboutLang('zh')" id="btn-zh">
+中文
+</button>
 
 </div>
 
@@ -353,10 +268,9 @@ redirect_from:
 <strong>Third-year Ph.D. Student in Software Engineering, Tianjin University</strong>
 </div>
 
-<div class="profile-description">
+<div class="profile-text">
 
-I study **reliable and self-improving LLM agents and multi-agent systems**.  
-My research focuses on how agents can **make reliable decisions, coordinate effectively, diagnose failures, and continuously improve from interaction and experience**.
+I study **reliable and self-improving LLM agents and multi-agent systems**. My research focuses on how agents can **make reliable decisions, coordinate effectively, diagnose failures, and continuously improve from interaction and experience**.
 
 My current interests lie at the intersection of **Multi-Agent Systems, Agent Reinforcement Learning, Epistemic Reasoning, and Trustworthy AI**, with an emphasis on building agent systems that can reason about their own decisions and learn better strategies over time.
 
@@ -400,8 +314,6 @@ Continuing research on <strong>reliable and self-improving LLM agents</strong>.
 ---
 
 # Publications
-
-<div class="pub-section">
 
 ### LLM Agents & Multi-Agent Systems
 
@@ -606,8 +518,6 @@ Jin Fan, <strong>Zehao Wang</strong>, Danfeng Sun, Huifeng Wu.
 
 <div class="pub-journal">
 IEEE Transactions on Emerging Topics in Computing.
-</div>
-
 </div>
 
 </div>
@@ -853,7 +763,7 @@ If you are interested in discussing research ideas or potential collaboration, f
 <strong>天津大学软件工程博士三年级研究生</strong>
 </div>
 
-<div class="profile-description">
+<div class="profile-text">
 
 我的研究主要聚焦于**可靠且能够持续自我改进的大语言模型智能体（LLM Agents）与多智能体系统（Multi-Agent Systems）**。
 
@@ -901,8 +811,6 @@ If you are interested in discussing research ideas or potential collaboration, f
 ---
 
 # 论文发表
-
-<div class="pub-section">
 
 ### LLM Agents & Multi-Agent Systems
 
@@ -1107,8 +1015,6 @@ Jin Fan, <strong>Zehao Wang</strong>, Danfeng Sun, Huifeng Wu.
 
 <div class="pub-journal">
 IEEE Transactions on Emerging Topics in Computing.
-</div>
-
 </div>
 
 </div>
@@ -1341,9 +1247,7 @@ IEEE Transactions on Emerging Topics in Computing.
 </div>
 
 
-<!-- ========================================================= -->
 <!-- ======================== SCRIPT ========================== -->
-<!-- ========================================================= -->
 
 <script>
 
