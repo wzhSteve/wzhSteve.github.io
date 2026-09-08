@@ -121,6 +121,67 @@ I also work on trustworthy AI and intelligent risk-control systems, particularly
 
 ---
 
+# 📝 Publications
+
+### LLM Agents & Multi-Agent Systems
+
+- **[EMNLP 2026]**  
+  **Zehao Wang**, Lanjun Wang, Shilong Jin, Junjie Chen, Yanghua Xiao.  
+  *DCFA: Dual-view Causal Attribution for Failure Reasoning in LLM-based Multi-agent Systems.*
+
+- **[ICML 2026]**  
+  **Zehao Wang**, Shilong Jin, Zhao Cao, Lanjun Wang.  
+  *When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems.*
+
+### Trustworthy AI & Risk Control
+
+- **[WWW 2026]**  
+  **Zehao Wang**, Lanjun Wang, Fuxia Guo, Yanjie Dong.  
+  *Pattern-aware Illicit Account Detection based on User Behavior Sequences.*
+
+- **[MIR 2026]**  
+  **Zehao Wang**, Lanjun Wang.  
+  *Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing.*  
+  *Machine Intelligence Research.*
+
+- **[DASFAA 2026]**  
+  **Zehao Wang**, Lanjun Wang.  
+  *NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection.*
+
+- **[TIFS 2025]**  
+  Jin Fan, Zheyu Wang, **Zehao Wang**, Jiajun Yang, Huifeng Wu, Jia Wu.  
+  *Enhancing GCN Robustness Against Structural Attacks via Adaptive Spectrum Filtering.*  
+  *IEEE Transactions on Information Forensics and Security.*
+
+- **[Neurocomputing 2025]**  
+  Jin Fan, **Zehao Wang**$^{\star}$ *(Corresponding Author)*, Feiwei Qin, Huifeng Wu, Danfeng Sun, Jia Wu.  
+  *A distribution feature extracting network with dual correlation for long sequence time-series forecasting.*
+
+- **[TAI 2024]**  
+  **Zehao Wang**, Jin Fan, Huifeng Wu, Danfeng Sun, Jia Wu.  
+  *Representing Multi-view Time-series Graph Structures for Multivariate Long-term Time-series Forecasting.*  
+  *IEEE Transactions on Artificial Intelligence.*
+
+- **[CIKM 2024]**  
+  Lanjun Wang, **Zehao Wang**, Le Wu, An-An Liu.  
+  *Bots Shield Fake News: Adversarial Attack on User Engagement-based Fake News Detection.*
+
+- **[Neural Networks 2023]**  
+  Jin Fan, **Zehao Wang**, Huifeng Wu, Danfeng Sun, Jia Wu, Xin Lu.  
+  *An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection.*
+
+- **[FGCS 2023]**  
+  **Zehao Wang**, Huifeng Wu, Jin Fan, Danfeng Sun, Jia Wu.  
+  *A robust feature reinforcement framework for heterogeneous graphs neural networks.*
+
+- **[TETC 2022]**  
+  Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu.  
+  *Sepformer-based Models: More Efficient Models for Long Sequence Time-Series Forecasting.*
+  *IEEE Transactions on Emerging Topics in Computing.*
+
+
+---
+
 # 🚀 Research Projects
 
 ### Reliable Multi-Agent Systems
@@ -153,66 +214,8 @@ Applying **LLM reasoning, behavioral modeling, graph learning, and anomaly detec
 - **Principal Investigator**, Zhejiang Province Xinmiao Talent Program, **2023**
 - **Student Lead**, Tencent Rhino-Bird Research Program, **2024–2025**
   - Led the overall research and technical development of the project.
-  - Responsible for the core technical development, experiments, and project delivery.
+  - Responsible for core technical development, experiments, and project delivery.
   - The project received **Excellent Project Completion (Top 25%)**.
-
-
----
-
-# 📝 Selected Publications
-
-### LLM Agents & Multi-Agent Systems
-
-**Zehao Wang**, Lanjun Wang, Shilong Jin, Junjie Chen, Yanghua Xiao.  
-*DCFA: Dual-view Causal Attribution for Failure Reasoning in LLM-based Multi-agent Systems.*  
-**EMNLP 2026.**
-
-**Zehao Wang**, Shilong Jin, Zhao Cao, Lanjun Wang.  
-*When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems.*  
-**ICML 2026.**
-
-### Trustworthy AI & Risk Control
-
-**Zehao Wang**, Lanjun Wang, Fuxia Guo, Yanjie Dong.  
-*Pattern-aware Illicit Account Detection based on User Behavior Sequences.*  
-**WWW 2026.**
-
-**Zehao Wang**, Lanjun Wang.  
-*NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection.*  
-**DASFAA 2026.**
-
-**Zehao Wang**, Lanjun Wang.  
-*Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing.*  
-**Machine Intelligence Research, 2026.**
-
-
----
-
-# 📚 Other Publications
-
-Jin Fan, **Zehao Wang**$^{\star}$, Feiwei Qin, Huifeng Wu, Danfeng Sun, Jia Wu.  
-*A distribution feature extracting network with dual correlation for long sequence time-series forecasting.*  
-**Neurocomputing, 2025.**
-
-Lanjun Wang, **Zehao Wang**, Le Wu, An-An Liu.  
-*Bots Shield Fake News: Adversarial Attack on User Engagement-based Fake News Detection.*  
-**CIKM 2024.**
-
-**Zehao Wang**, Jin Fan, Huifeng Wu, Danfeng Sun, Jia Wu.  
-*Representing Multi-view Time-series Graph Structures for Multivariate Long-term Time-series Forecasting.*  
-**IEEE Transactions on Artificial Intelligence, 2024.**
-
-Jin Fan, **Zehao Wang**, Huifeng Wu, Danfeng Sun, Jia Wu, Xin Lu.  
-*An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection.*  
-**Neural Networks, 2023.**
-
-**Zehao Wang**, Huifeng Wu, Jin Fan, Danfeng Sun, Jia Wu.  
-*A robust feature reinforcement framework for heterogeneous graphs neural networks.*  
-**Future Generation Computer Systems, 2023.**
-
-Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu.  
-*Sepformer-based Models: More Efficient Models for Long Sequence Time-Series Forecasting.*  
-**IEEE Transactions on Emerging Topics in Computing, 2022.**
 
 
 ---
@@ -248,7 +251,7 @@ Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu.
 
 ### Tianjin University
 
-**Third-year Ph.D. Student in Software Engineering**  
+**Ph.D. Student in Software Engineering**  
 *2024.09 – 2028.06*
 
 ### Hangzhou Dianzi University
@@ -350,6 +353,67 @@ If you are interested in discussing research ideas or potential collaboration, f
 
 ---
 
+# 📝 论文发表
+
+### LLM Agents & Multi-Agent Systems
+
+- **[EMNLP 2026]**  
+  **Zehao Wang**, Lanjun Wang, Shilong Jin, Junjie Chen, Yanghua Xiao.  
+  *DCFA: Dual-view Causal Attribution for Failure Reasoning in LLM-based Multi-agent Systems.*
+
+- **[ICML 2026]**  
+  **Zehao Wang**, Shilong Jin, Zhao Cao, Lanjun Wang.  
+  *When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems.*
+
+### Trustworthy AI & Risk Control
+
+- **[WWW 2026]**  
+  **Zehao Wang**, Lanjun Wang, Fuxia Guo, Yanjie Dong.  
+  *Pattern-aware Illicit Account Detection based on User Behavior Sequences.*
+
+- **[MIR 2026]**  
+  **Zehao Wang**, Lanjun Wang.  
+  *Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing.*  
+  *Machine Intelligence Research.*
+
+- **[DASFAA 2026]**  
+  **Zehao Wang**, Lanjun Wang.  
+  *NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection.*
+
+- **[TIFS 2025]**  
+  Jin Fan, Zheyu Wang, **Zehao Wang**, Jiajun Yang, Huifeng Wu, Jia Wu.  
+  *Enhancing GCN Robustness Against Structural Attacks via Adaptive Spectrum Filtering.*  
+  *IEEE Transactions on Information Forensics and Security.*
+
+- **[Neurocomputing 2025]**  
+  Jin Fan, **Zehao Wang**$^{\star}$ *(Corresponding Author)*, Feiwei Qin, Huifeng Wu, Danfeng Sun, Jia Wu.  
+  *A distribution feature extracting network with dual correlation for long sequence time-series forecasting.*
+
+- **[TAI 2024]**  
+  **Zehao Wang**, Jin Fan, Huifeng Wu, Danfeng Sun, Jia Wu.  
+  *Representing Multi-view Time-series Graph Structures for Multivariate Long-term Time-series Forecasting.*  
+  *IEEE Transactions on Artificial Intelligence.*
+
+- **[CIKM 2024]**  
+  Lanjun Wang, **Zehao Wang**, Le Wu, An-An Liu.  
+  *Bots Shield Fake News: Adversarial Attack on User Engagement-based Fake News Detection.*
+
+- **[Neural Networks 2023]**  
+  Jin Fan, **Zehao Wang**, Huifeng Wu, Danfeng Sun, Jia Wu, Xin Lu.  
+  *An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection.*
+
+- **[FGCS 2023]**  
+  **Zehao Wang**, Huifeng Wu, Jin Fan, Danfeng Sun, Jia Wu.  
+  *A robust feature reinforcement framework for heterogeneous graphs neural networks.*
+
+- **[TETC 2022]**  
+  Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu.  
+  *Sepformer-based Models: More Efficient Models for Long Sequence Time-Series Forecasting.*
+  *IEEE Transactions on Emerging Topics in Computing.*
+
+
+---
+
 # 🚀 研究项目
 
 ### Reliable Multi-Agent Systems
@@ -378,70 +442,12 @@ If you are interested in discussing research ideas or potential collaboration, f
 
 # 🔬 科研项目与科研领导力
 
-- **项目主持人（Principal Investigator）**，浙江省教育厅一般科研项目，**2022**
-- **项目主持人（Principal Investigator）**，浙江省新苗人才计划，**2023**
+- **项目主持人（Principal Investigator）**，浙江省教育厅一般科研项目，**2022-2023**
+- **项目主持人（Principal Investigator）**，浙江省新苗人才计划，**2023-2024**
 - **学生负责人（Student Lead）**，腾讯犀牛鸟科研项目，**2024–2025**
   - 负责项目整体科研工作与技术方案设计。
   - 负责核心技术开发、实验验证与项目成果交付。
   - 项目获腾讯犀牛鸟**优秀结项，位列前 25%**。
-
-
----
-
-# 📝 代表性论文
-
-### LLM Agents & Multi-Agent Systems
-
-**Zehao Wang**, Lanjun Wang, Shilong Jin, Junjie Chen, Yanghua Xiao.  
-*DCFA: Dual-view Causal Attribution for Failure Reasoning in LLM-based Multi-agent Systems.*  
-**EMNLP 2026.**
-
-**Zehao Wang**, Shilong Jin, Zhao Cao, Lanjun Wang.  
-*When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems.*  
-**ICML 2026.**
-
-### Trustworthy AI & Risk Control
-
-**Zehao Wang**, Lanjun Wang, Fuxia Guo, Yanjie Dong.  
-*Pattern-aware Illicit Account Detection based on User Behavior Sequences.*  
-**WWW 2026.**
-
-**Zehao Wang**, Lanjun Wang.  
-*NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection.*  
-**DASFAA 2026.**
-
-**Zehao Wang**, Lanjun Wang.  
-*Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing.*  
-**Machine Intelligence Research, 2026.**
-
-
----
-
-# 📚 其他论文
-
-Jin Fan, **Zehao Wang**$^{\star}$, Feiwei Qin, Huifeng Wu, Danfeng Sun, Jia Wu.  
-*A distribution feature extracting network with dual correlation for long sequence time-series forecasting.*  
-**Neurocomputing, 2025.**
-
-Lanjun Wang, **Zehao Wang**, Le Wu, An-An Liu.  
-*Bots Shield Fake News: Adversarial Attack on User Engagement-based Fake News Detection.*  
-**CIKM 2024.**
-
-**Zehao Wang**, Jin Fan, Huifeng Wu, Danfeng Sun, Jia Wu.  
-*Representing Multi-view Time-series Graph Structures for Multivariate Long-term Time-series Forecasting.*  
-**IEEE Transactions on Artificial Intelligence, 2024.**
-
-Jin Fan, **Zehao Wang**, Huifeng Wu, Danfeng Sun, Jia Wu, Xin Lu.  
-*An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection.*  
-**Neural Networks, 2023.**
-
-**Zehao Wang**, Huifeng Wu, Jin Fan, Danfeng Sun, Jia Wu.  
-*A robust feature reinforcement framework for heterogeneous graphs neural networks.*  
-**Future Generation Computer Systems, 2023.**
-
-Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu.  
-*Sepformer-based Models: More Efficient Models for Long Sequence Time-Series Forecasting.*  
-**IEEE Transactions on Emerging Topics in Computing, 2022.**
 
 
 ---
@@ -477,7 +483,7 @@ Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu.
 
 ### 天津大学
 
-**软件工程博士三年级研究生**  
+**软件工程博士**  
 *2024.09 – 2028.06*
 
 ### 杭州电子科技大学
