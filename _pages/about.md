@@ -61,7 +61,7 @@ redirect_from:
 
 # Zehao Wang
 
-**Ph.D. Student in Software Engineering, Tianjin University**
+**Third-year Ph.D. Student in Software Engineering, Tianjin University**
 
 I study **reliable and self-improving LLM agents and multi-agent systems**. My research focuses on how agents can **make reliable decisions, coordinate effectively, diagnose failures, and continuously improve from interaction and experience**.
 
@@ -90,12 +90,12 @@ My research is organized around a central question:
 
 ### Reliable LLM Agents
 
-I study the reliability of LLM-based agents from a **decision-centric and epistemic perspective**.
+I study the reliability of LLM-based agents from a **decision-centric and epistemic perspective**, focusing on whether agents possess and appropriately use the knowledge required for reliable decisions.
 
 - Epistemic calibration and decision reliability
 - Reliable planning and execution
 - Failure diagnosis and attribution
-- Causal reasoning for agent decisions
+- Causal-inspired reasoning for agent decisions
 - Hierarchical intervention and decision correction
 
 ### Self-Improving Agents
@@ -125,7 +125,7 @@ I also work on trustworthy AI and intelligent risk-control systems, particularly
 
 ### Reliable Multi-Agent Systems
 
-Developing methods to improve the reliability of LLM-based multi-agent systems through **epistemic calibration, hierarchical intervention, failure attribution, and structured reasoning**.
+Developing methods to improve the reliability of LLM-based multi-agent systems through **epistemic calibration, failure attribution, hierarchical intervention, and structured reasoning**.
 
 ### Self-Evolving Agent Systems
 
@@ -134,6 +134,27 @@ Exploring **online knowledge evolution and agent reinforcement learning** to ena
 ### AI Risk Control
 
 Applying **LLM reasoning, behavioral modeling, graph learning, and anomaly detection** to intelligent risk detection and intervention in real-world systems.
+
+
+---
+
+# 🏆 Honors & Awards
+
+- **National Scholarship**, Ministry of Education of China, **2023**
+- **Huawei Scholarship**, **2023**
+- **Silver Award**, China International College Students' Innovation and Entrepreneurship Competition, **International Track, 2024**
+
+
+---
+
+# 🔬 Research Grants & Leadership
+
+- **Principal Investigator**, General Research Project, Zhejiang Provincial Department of Education, **2022**
+- **Principal Investigator**, Zhejiang Province Xinmiao Talent Program, **2023**
+- **Student Lead**, Tencent Rhino-Bird Research Program, **2024–2025**
+  - Led the overall research and technical development of the project.
+  - Responsible for the core technical development, experiments, and project delivery.
+  - The project received **Excellent Project Completion (Top 25%)**.
 
 
 ---
@@ -201,7 +222,7 @@ Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu.
 ### Huawei / FusionServer Research Institute
 
 **Research / System Architect**  
-*2025 – Present*
+*2025.11 – Present*
 
 - Research on reliable LLM-based multi-agent systems.
 - Agent failure diagnosis, attribution, and system-level reliability.
@@ -209,29 +230,35 @@ Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu.
 - Research translation toward large-scale enterprise AI systems.
 
 
-### Tencent
+### Tencent WeChat / Tencent Rhino-Bird Research Program
 
-**Research Project — Intelligent Risk Control**
+**Student Lead — Intelligent Risk Control Research Project**  
+*2024.11 – 2025.08*
 
-- User behavior modeling and illicit-account detection.
-- Behavioral sequence analysis and anomaly detection.
-- Intelligent risk identification and intervention.
+- Led the overall research and technical development of the project.
+- Conducted research on user behavior modeling and illicit-account detection.
+- Designed and implemented behavioral sequence analysis and anomaly detection methods.
+- Responsible for core technical development, experimental evaluation, and project delivery.
+- The project received **Excellent Project Completion (Top 25%)** in the Tencent Rhino-Bird Research Program.
 
 
 ---
 
 # 🎓 Education
 
-**Tianjin University**  
-Ph.D. in Software Engineering  
+### Tianjin University
+
+**Third-year Ph.D. Student in Software Engineering**  
 *2024.09 – 2028.06*
 
-**Hangzhou Dianzi University**  
-M.S. in Computer Technology  
+### Hangzhou Dianzi University
+
+**M.S. in Computer Technology**  
 *2021.09 – 2024.06*
 
-**Xidian University**  
-B.Eng. in Communication Engineering  
+### Xidian University
+
+**B.Eng. in Communication Engineering**  
 *2016.09 – 2020.06*
 
 
@@ -241,7 +268,7 @@ B.Eng. in Communication Engineering
 
 I am interested in research collaborations on:
 
-- LLM-based agents and multi-agent systems
+- LLM agents and multi-agent systems
 - Agent reinforcement learning
 - Reliable and trustworthy AI
 - Agent reasoning and decision making
@@ -261,7 +288,7 @@ If you are interested in discussing research ideas or potential collaboration, f
 
 # 王则昊
 
-**天津大学软件工程博士研究生**
+**天津大学软件工程博士三年级研究生**
 
 我的研究主要聚焦于**可靠且能够持续自我改进的大语言模型智能体（LLM Agents）与多智能体系统（Multi-Agent Systems）**。
 
@@ -292,12 +319,12 @@ If you are interested in discussing research ideas or potential collaboration, f
 
 ### Reliable LLM Agents
 
-从**决策与认知（epistemic）视角**研究 LLM Agent 的可靠性。
+从**决策与认知（epistemic）视角**研究 LLM Agent 的可靠性，重点关注智能体是否拥有并能够正确使用支撑可靠决策所需的知识。
 
 - 认知校准与决策可靠性
 - Agent Planning 与 Execution 可靠性
 - Agent Failure Diagnosis 与 Attribution
-- 面向 Agent 决策的因果推理
+- 面向 Agent 决策的因果启发式推理
 - 分级干预与决策纠正
 
 ### Self-Improving Agents
@@ -327,7 +354,7 @@ If you are interested in discussing research ideas or potential collaboration, f
 
 ### Reliable Multi-Agent Systems
 
-研究通过**认知校准、分级干预、失败归因与结构化推理**提升 LLM-based Multi-Agent Systems 可靠性的方法。
+研究通过**认知校准、失败归因、分级干预与结构化推理**提升 LLM-based Multi-Agent Systems 可靠性的方法。
 
 ### Self-Evolving Agent Systems
 
@@ -336,6 +363,27 @@ If you are interested in discussing research ideas or potential collaboration, f
 ### AI Risk Control
 
 结合 **LLM 推理、用户行为建模、图学习与异常检测**，研究面向真实场景的智能风险识别与干预。
+
+
+---
+
+# 🏆 荣誉与奖励
+
+- **国家奖学金**，教育部，**2023**
+- **华为奖学金**，**2023**
+- **中国国际大学生创新大赛（原“互联网+”）国际赛道银奖**，**2024**
+
+
+---
+
+# 🔬 科研项目与科研领导力
+
+- **项目主持人（Principal Investigator）**，浙江省教育厅一般科研项目，**2022**
+- **项目主持人（Principal Investigator）**，浙江省新苗人才计划，**2023**
+- **学生负责人（Student Lead）**，腾讯犀牛鸟科研项目，**2024–2025**
+  - 负责项目整体科研工作与技术方案设计。
+  - 负责核心技术开发、实验验证与项目成果交付。
+  - 项目获腾讯犀牛鸟**优秀结项，位列前 25%**。
 
 
 ---
@@ -403,7 +451,7 @@ Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu.
 ### 华为 / 超聚变中央研究院
 
 **Research / System Architect**  
-*2025 – Present*
+*2025.11 – Present*
 
 - 可靠 LLM-based Multi-Agent Systems 研究。
 - Agent Failure Diagnosis、Attribution 与系统可靠性研究。
@@ -411,29 +459,35 @@ Jin Fan, **Zehao Wang**, Danfeng Sun, Huifeng Wu.
 - 面向企业级 AI 系统的研究成果转化。
 
 
-### 腾讯
+### 腾讯微信 / 腾讯犀牛鸟科研项目
 
-**智能风控研究项目**
+**学生负责人（Student Lead）— 智能风控研究项目**  
+*2024.11 – 2025.08*
 
-- 黑产账户与用户行为建模。
-- 用户行为序列分析与异常检测。
-- 智能风险识别与干预。
+- 负责项目整体科研工作与技术方案设计。
+- 开展黑产账户检测与用户行为建模研究。
+- 设计并实现用户行为序列分析与异常检测方法。
+- 负责核心技术开发、实验验证与项目成果交付。
+- 项目获腾讯犀牛鸟**优秀结项，位列前 25%**。
 
 
 ---
 
 # 🎓 教育经历
 
-**天津大学**  
-软件工程博士  
+### 天津大学
+
+**软件工程博士三年级研究生**  
 *2024.09 – 2028.06*
 
-**杭州电子科技大学**  
-计算机技术硕士  
+### 杭州电子科技大学
+
+**计算机技术硕士**  
 *2021.09 – 2024.06*
 
-**西安电子科技大学**  
-通信工程学士  
+### 西安电子科技大学
+
+**通信工程学士**  
 *2016.09 – 2020.06*
 
 
@@ -488,6 +542,7 @@ function setAboutLang(lang) {
 
   try {
     var savedLang = localStorage.getItem('aboutLang');
+
     if (savedLang === 'zh' || savedLang === 'en') {
       lang = savedLang;
     }
