@@ -274,18 +274,6 @@ I study **reliable and self-improving LLM agents and multi-agent systems**. My r
 
 My current interests lie at the intersection of **Multi-Agent Systems, Agent Reinforcement Learning, Epistemic Reasoning, and Trustworthy AI**, with an emphasis on building agent systems that can reason about their own decisions and learn better strategies over time.
 
-</div>
-
-<div class="profile-links">
-
-[Google Scholar](https://scholar.google.com/) ·
-[GitHub](https://github.com/) ·
-[Email](mailto:your-email@example.com) ·
-[CV](/files/CV.pdf)
-
-</div>
-
-
 ---
 
 # News
@@ -535,9 +523,11 @@ My research is organized around a central question:
 
 <div class="research-card">
 
-### Reliable LLM Agents
+<h3>Reliable LLM Agents</h3>
 
+<p>
 I study agent reliability from a **decision-centric and epistemic perspective**, focusing on whether agents possess and appropriately use the knowledge required for reliable decisions.
+</p>
 
 <ul>
 <li>Epistemic calibration</li>
@@ -548,12 +538,14 @@ I study agent reliability from a **decision-centric and epistemic perspective**,
 
 </div>
 
-
 <div class="research-card">
 
-### Self-Improving Agents
+<h3>Self-Improving Agents</h3>
 
-I investigate how agents can **learn from interaction, experience, and failures** rather than relying solely on static prompts or external supervision.
+<p>
+I investigate how agents can <strong>learn from interaction, experience, and failures</strong>
+rather than relying solely on static prompts or external supervision.
+</p>
 
 <ul>
 <li>Agent reinforcement learning</li>
@@ -567,9 +559,12 @@ I investigate how agents can **learn from interaction, experience, and failures*
 
 <div class="research-card">
 
-### Trustworthy AI
+<h3>Trustworthy AI</h3>
 
-I work on trustworthy AI and intelligent risk-control systems, where **behavioral modeling, reasoning, and anomaly detection** intersect.
+<p>
+  I work on trustworthy AI and intelligent risk-control systems, where **behavioral modeling, reasoning, and anomaly detection** intersect.
+</p>
+
 
 <ul>
 <li>Risk reasoning & intervention</li>
@@ -771,16 +766,6 @@ If you are interested in discussing research ideas or potential collaboration, f
 
 目前的研究主要位于 **Multi-Agent Systems、Agent Reinforcement Learning、Epistemic Reasoning 与 Trustworthy AI** 的交叉领域，重点探索如何让智能体具备更加可靠的决策能力，以及如何通过经验和强化学习实现持续自我改进。
 
-</div>
-
-<div class="profile-links">
-
-[Google Scholar](https://scholar.google.com/) ·
-[GitHub](https://github.com/) ·
-[Email](mailto:your-email@example.com) ·
-[CV](/files/CV.pdf)
-
-</div>
 
 
 ---
@@ -1032,9 +1017,12 @@ IEEE Transactions on Emerging Topics in Computing.
 
 <div class="research-card">
 
-### Reliable LLM Agents
+<h3>Reliable LLM Agents</h3> 
 
-从**决策与认知（epistemic）视角**研究 LLM Agent 的可靠性，重点关注智能体是否拥有并能够正确使用支撑可靠决策所需的知识。
+<p>
+  从决策与认知（epistemic）视角研究 LLM Agent 的可靠性，重点关注智能体是否拥有并能够正确使用支撑可靠决策所需的知识。
+</p>
+
 
 <ul>
 <li>认知校准与决策可靠性</li>
@@ -1047,9 +1035,11 @@ IEEE Transactions on Emerging Topics in Computing.
 
 <div class="research-card">
 
-### Self-Improving Agents
+<h3>Self-Improving Agents</h3>
 
-研究智能体如何从**交互、经验和失败中学习**，而不是完全依赖静态 Prompt 或外部监督。
+<p>
+研究智能体如何从交互、经验和失败中学习，而不是完全依赖静态 Prompt 或外部监督。
+</P>
 
 <ul>
 <li>Agent Reinforcement Learning</li>
@@ -1063,9 +1053,11 @@ IEEE Transactions on Emerging Topics in Computing.
 
 <div class="research-card">
 
-### Trustworthy AI & 风险控制
+<h3>Trustworthy AI & 风险控制</h3>
 
-研究可信人工智能与智能风险控制，重点关注**行为建模、推理与异常检测**的结合。
+<p>
+研究可信人工智能与智能风险控制，重点关注行为建模、推理与异常检测的结合。
+</p>
 
 <ul>
 <li>风险推理与智能干预</li>
