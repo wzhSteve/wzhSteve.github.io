@@ -270,9 +270,9 @@ English
 
 <div class="profile-text">
 
-I study **reliable and self-improving LLM agents and multi-agent systems**. My research focuses on how agents can **make reliable decisions, coordinate effectively, diagnose failures, and continuously improve from interaction and experience**.
+I study <strong>reliable and self-improving LLM agents and multi-agent systems</strong>. My research focuses on how agents can <strong>make reliable decisions, coordinate effectively, diagnose failures, and continuously improve from interaction and experience</strong>.
 
-My current interests lie at the intersection of **Multi-Agent Systems, Agent Reinforcement Learning, Epistemic Reasoning, and Trustworthy AI**, with an emphasis on building agent systems that can reason about their own decisions and learn better strategies over time.
+My current interests lie at the intersection of <strong>Multi-Agent Systems, Agent Reinforcement Learning, Epistemic Reasoning, and Trustworthy AI</strong>, with an emphasis on building agent systems that can reason about their own decisions and learn better strategies over time.
 
 </div>
 
@@ -528,7 +528,7 @@ My research is organized around a central question:
 <h3>Reliable LLM Agents</h3>
 
 <p>
-I study agent reliability from a **decision-centric and epistemic perspective**, focusing on whether agents possess and appropriately use the knowledge required for reliable decisions.
+I study agent reliability from a <strong>decision-centric and epistemic perspective</strong>, focusing on whether agents possess and appropriately use the knowledge required for reliable decisions.
 </p>
 
 <ul>
@@ -564,7 +564,7 @@ rather than relying solely on static prompts or external supervision.
 <h3>Trustworthy AI</h3>
 
 <p>
-  I work on trustworthy AI and intelligent risk-control systems, where **behavioral modeling, reasoning, and anomaly detection** intersect.
+  I work on trustworthy AI and intelligent risk-control systems, where <strong>behavioral modeling, reasoning, and anomaly detection</strong> intersect.
 </p>
 
 
@@ -762,11 +762,11 @@ If you are interested in discussing research ideas or potential collaboration, f
 
 <div class="profile-text">
 
-我的研究主要聚焦于**可靠且能够持续自我改进的大语言模型智能体（LLM Agents）与多智能体系统（Multi-Agent Systems）**。
+我的研究主要聚焦于<strong>可靠且能够持续自我改进的大语言模型智能体（LLM Agents）与多智能体系统（Multi-Agent Systems）</strong>。
 
-我关注智能体如何**做出可靠决策、进行有效协作、理解和诊断自身失败，并从交互经验中持续学习和改进**。
+我关注智能体如何<strong>做出可靠决策、进行有效协作、理解和诊断自身失败，并从交互经验中持续学习和改进</strong>。
 
-目前的研究主要位于 **Multi-Agent Systems、Agent Reinforcement Learning、Epistemic Reasoning 与 Trustworthy AI** 的交叉领域，重点探索如何让智能体具备更加可靠的决策能力，以及如何通过经验和强化学习实现持续自我改进。
+目前的研究主要位于 <strong>Multi-Agent Systems、Agent Reinforcement Learning、Epistemic Reasoning 与 Trustworthy AI</strong> 的交叉领域，重点探索如何让智能体具备更加可靠的决策能力，以及如何通过经验和强化学习实现持续自我改进。
 
 </div>
 
